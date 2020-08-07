@@ -7,7 +7,7 @@
       <br/>
       <textarea name="description"></textarea><br/>
       <br/>
-      <input placeholder="제출", type="submit">
+      <input value="보내기", type="submit">
     </form>
   </body>
 </html>
